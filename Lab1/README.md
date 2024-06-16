@@ -8,14 +8,17 @@
 ## Настройка
 
 Топология сети:
+
 ![Топология](img/topology.jpg)
 
 ### Настройка клиентов
 
 Настройка `VPC1`:
+
 ![VPC1](img/VPC1_setting.jpg)
 
 Настройка `VPC2`:
+
 ![VPC1](img/VPC2_setting.jpg)
 
 ### Настройка коммутаторов уровня доступ
@@ -33,7 +36,6 @@
 Состояние после настройки:
 
 ![S1_after_setting](img/S1_after_setting.jpg)
-
 
 Настройка `S2` (почти аналогично)
 
@@ -54,7 +56,9 @@
 Настройка `S3`
 
 Состояние перед настройкой
+
 ![S3_before_setting](img/S3_before_setting.jpg)
+
 Конфигурация:
 
 ![S3_setting](img/S3_setting.jpg)
@@ -92,11 +96,13 @@
 ## Проверка STP
 
 Spanning-tree `S1`:
+
 ![S1_spanning_tree_pt1](img/S1_spanning_tree_pt1.jpg)
 ![S1_spanning_tree_pt2](img/S1_spanning_tree_pt2.jpg)
 ![S1_spanning_tree_pt3](img/S1_spanning_tree_pt3.jpg)
 
 Spanning-tree `S2`:
+
 ![S2_spanning_tree_pt1](img/S2_spanning_tree_pt1.jpg)
 ![S2_spanning_tree_pt2](img/S2_spanning_tree_pt2.jpg)
 ![S2_spanning_tree_pt3](img/S2_spanning_tree_pt3.jpg)
